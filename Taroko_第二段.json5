@@ -1,0 +1,316 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/7.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.6",
+        "animated": false,
+        "offsetBottom": "-10px",
+        "offsetEnd": "none",
+        "margin": "none",
+        "align": "center"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "餐飲美食組",
+            "size": "xl",
+            "color": "#636363",
+            "weight": "bold",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "style": "primary",
+                "color": "#DC0123",
+                "offsetEnd": "none",
+                "offsetBottom": "none"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "分享",
+                  "uri": "https://lihi.cc/9EfAB"
+                },
+                "style": "primary",
+                "color": "#636363",
+                "margin": "10px"
+              }
+            ],
+            "margin": "20px",
+            "paddingAll": "0px"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/8.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.6",
+        "animated": false,
+        "offsetBottom": "-10px",
+        "offsetEnd": "none",
+        "margin": "none",
+        "align": "center"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "健康美學組",
+            "size": "xl",
+            "color": "#636363",
+            "weight": "bold",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "style": "primary",
+                "color": "#DC0123",
+                "offsetEnd": "none",
+                "offsetBottom": "none"
+              }
+            ],
+            "margin": "20px",
+            "paddingAll": "0px"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/9.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.6",
+        "animated": false,
+        "offsetBottom": "-10px",
+        "offsetEnd": "none",
+        "margin": "none",
+        "align": "center"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "建築工程組",
+            "size": "xl",
+            "color": "#636363",
+            "weight": "bold",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "style": "primary",
+                "color": "#DC0123",
+                "offsetEnd": "none",
+                "offsetBottom": "none"
+              }
+            ],
+            "margin": "20px",
+            "paddingAll": "0px"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/10.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.6",
+        "animated": false,
+        "offsetBottom": "-10px",
+        "offsetEnd": "none",
+        "margin": "none",
+        "align": "center"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "建築工程組",
+            "size": "xl",
+            "color": "#636363",
+            "weight": "bold",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "style": "primary",
+                "color": "#DC0123",
+                "offsetEnd": "none",
+                "offsetBottom": "none"
+              }
+            ],
+            "margin": "20px",
+            "paddingAll": "0px"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/11.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.6",
+        "animated": false,
+        "offsetBottom": "-10px",
+        "offsetEnd": "none",
+        "margin": "none",
+        "align": "center"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "品味生活組",
+            "size": "xl",
+            "color": "#636363",
+            "weight": "bold",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "style": "primary",
+                "color": "#DC0123",
+                "offsetEnd": "none",
+                "offsetBottom": "none"
+              }
+            ],
+            "margin": "20px",
+            "paddingAll": "0px"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/12.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.6",
+        "animated": false,
+        "offsetBottom": "-10px",
+        "offsetEnd": "none",
+        "margin": "none",
+        "align": "center"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "行銷廣告組",
+            "size": "xl",
+            "color": "#636363",
+            "weight": "bold",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "style": "primary",
+                "color": "#DC0123",
+                "offsetEnd": "none",
+                "offsetBottom": "none"
+              }
+            ],
+            "margin": "20px",
+            "paddingAll": "0px"
+          }
+        ]
+      }
+    }
+  ]
+}
