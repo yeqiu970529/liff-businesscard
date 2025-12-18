@@ -1,0 +1,359 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/1.jpg",
+        "size": "100%",
+        "aspectMode": "cover",
+        "margin": "none",
+        "align": "start",
+        "animated": false,
+        "offsetTop": "0px",
+        "offsetEnd": "none",
+        "offsetBottom": "0px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "花蓮太魯閣名人堂白金分會",
+            "size": "26px",
+            "color": "#DC0024",
+            "weight": "bold",
+            "style": "normal",
+            "wrap": false
+          },
+          {
+            "type": "text",
+            "text": "一個產業一個代表",
+            "wrap": false,
+            "margin": "15px",
+            "color": "#717171",
+            "weight": "regular"
+          },
+          {
+            "type": "text",
+            "text": "以合作取代競爭",
+            "wrap": false,
+            "color": "#717171",
+            "weight": "regular",
+            "margin": "2px"
+          },
+          {
+            "type": "text",
+            "text": "為彼此事業開拓人脈與商業鏈結",
+            "wrap": false,
+            "color": "#717171",
+            "lineSpacing": "2.5px",
+            "weight": "regular",
+            "margin": "2px"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "花蓮太魯閣官網",
+              "uri": "https://bni-taroko.com/"
+            },
+            "color": "#636363",
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "官方臉書",
+              "uri": "https://www.facebook.com/BNITruku"
+            },
+            "color": "#DC0123",
+            "style": "primary",
+            "margin": "15px"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "分享名片給朋友",
+              "uri": "https://lihi.cc/O16s1"
+            },
+            "style": "primary",
+            "color": "#DC0123",
+            "margin": "15px"
+          }
+        ],
+        "paddingBottom": "10px"
+      },
+      "styles": {
+        "header": {
+          "separator": false
+        },
+        "hero": {
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/2.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.6",
+        "animated": false,
+        "offsetBottom": "none",
+        "offsetEnd": "none",
+        "align": "center"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "現任領導團隊",
+            "size": "xl",
+            "weight": "bold",
+            "color": "#636363",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "color": "#DC0123",
+                "style": "primary"
+              }
+            ],
+            "margin": "20px",
+            "paddingAll": "0px"
+          }
+        ]
+      },
+      "styles": {
+        "body": {
+          "separator": false
+        },
+        "footer": {
+          "separator": false
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/3.jpg",
+        "size": "full",
+        "aspectRatio": "1:1.65",
+        "aspectMode": "cover",
+        "offsetTop": "10px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "藝築工程團隊",
+            "size": "xl",
+            "weight": "bold",
+            "color": "#636363",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "color": "#DC0123",
+                "style": "primary"
+              }
+            ],
+            "margin": "md"
+          }
+        ],
+        "margin": "10px"
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/4.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.6",
+        "animated": false,
+        "offsetBottom": "none",
+        "offsetEnd": "none",
+        "margin": "none",
+        "align": "center"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "點農成金團隊",
+            "size": "xl",
+            "color": "#636363",
+            "weight": "bold",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "style": "primary",
+                "color": "#DC0123",
+                "offsetEnd": "none",
+                "offsetBottom": "none"
+              }
+            ],
+            "margin": "20px",
+            "paddingAll": "0px"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/5.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.6",
+        "animated": false,
+        "offsetBottom": "-10px",
+        "offsetEnd": "none",
+        "margin": "none",
+        "align": "center"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "企業服務組",
+            "size": "xl",
+            "color": "#636363",
+            "weight": "bold",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "style": "primary",
+                "color": "#DC0123",
+                "offsetEnd": "none",
+                "offsetBottom": "none"
+              }
+            ],
+            "margin": "15px",
+            "paddingAll": "0px"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://bni-taroko.com/wp-content/uploads/2025/12/6.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1.6",
+        "animated": false,
+        "offsetBottom": "-10px",
+        "offsetEnd": "none",
+        "margin": "none",
+        "align": "center"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "餐飲美食組",
+            "size": "xl",
+            "color": "#636363",
+            "weight": "bold",
+            "margin": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "更多會員資訊",
+                  "uri": "https://bni-taroko.com/member_info/"
+                },
+                "style": "primary",
+                "color": "#DC0123",
+                "offsetEnd": "none",
+                "offsetBottom": "none"
+              }
+            ],
+            "margin": "20px",
+            "paddingAll": "0px"
+          }
+        ]
+      }
+    }
+  ]
+}
+
